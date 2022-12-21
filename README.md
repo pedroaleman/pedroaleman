@@ -6,11 +6,10 @@
 
 ## :sassy_man:  Acerca de mí
 - 🏫: Trabajo en la Universidad Autónoma de Tamaulipas, en la Dirección de Sistemas de Información
-- :trophy: `ACPC` Finalist 2021
+- :trophy: `Microsoft® Certified Technology Specialist: SQL Server 2005` Finalist 2021
 - :technologist: Mi función es el desarrollo de sistemas informáticos, que dan solución a procesos administrativos
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: Soy programador en Tecnologías: `.NET` y `Full Stack`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+- :computer: Soy programador en Tecnologías: `.NET` y `Full Stack`.
+- :student: Actualmente estoy aprendiendo: `Desarrollo de Chat Boots` y `Aplicaciones en la Nube`.
+- :nerd_face: Siempre `aprendiendo cosas nuevas`
 
 <br>
