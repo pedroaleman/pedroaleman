@@ -122,7 +122,38 @@
 ### Sistemas Operativos
   
 <div align="center"><a href="https://www.microsoft.com/es-mx/software-download/windows10" target="_blank"><img src="https://www.linuxadictos.com/wp-content/uploads/windows-10-logo.jpg.webp" height="50"></a> <a href="https://ubuntu.com/wsl" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" height="50"></a></div>
+</td></tr><tr><td valign="top" width="33%">
+  
+### Packages
+
+<div align="center">
+	<a href="https://pages.github.com/" target="_blank"><img src="https://theaveragenz.com/wp-content/uploads/2021/07/3uy5od7tw2jf4fh7ldlv-800x400.jpeg" height="50"></a>
+</div>	
+</td><td valign="top" width="33%">  
+	
+### Office 365
+	
+<div align="center">
+	<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_sharepoint_logo_office_icon_145722.png" alt="sharepoint" height="50"></a>
+</div>
+</td><td valign="top" width="33%">
+		
+<div align="center">
+</div>
 </td></tr></tbody></table>
+
+
+### 🔥 Arquitecturas:
+
+<p align="left"> 
+    
+</p>
+
+### 🔥 Patrones:
+
+<p align="left"> 
+    
+</p>
 
 <hr>
 
