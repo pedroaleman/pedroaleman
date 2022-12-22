@@ -78,7 +78,13 @@
  
 ### Librer&iacute;as y Frameworks
   
-<div align="center"><a href="https://www.chartjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50"></a> <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"></a> <a href="https://getbootstrap.com/docs/5.0/components/buttons/" target="_blank"><img height="50px" src="https://camo.githubusercontent.com/dc657800d770f9f6a3be2c87d262cfd75f86ab2988a74861792f336658fffac6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574626f6f7473747261702f676574626f6f7473747261702d617232312e737667" style="max-width: 100%;"></a> <a href="https://jquery.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" alt="JQuery" height="50"></a></div>
+<div align="center">
+	<a href="https://www.chartjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50"></a>
+	<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"></a>
+	<a href="https://getbootstrap.com/docs/5.0/components/buttons/" target="_blank"><img height="50px" src="https://camo.githubusercontent.com/dc657800d770f9f6a3be2c87d262cfd75f86ab2988a74861792f336658fffac6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574626f6f7473747261702f676574626f6f7473747261702d617232312e737667" style="max-width: 100%;"></a>
+	<a href="https://jquery.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" alt="JQuery" height="50"></a>
+	<a href="#" target="_blank"><img src="https://camo.githubusercontent.com/0a52f68a159b75266c4ae21683fffa9cbc1af29ea6febc2a8c9ce260a05e521d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67756c61722e737667" height="50"></a>	
+</div>
 </td><td valign="top" width="33%">
 	
 ### Testing
@@ -103,6 +109,7 @@
 <a href="https://github.com/microsoft/terminal" target="_blank"><img height="50"  src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/02/powershell_logo_620__w630.jpg" alt="windowsterminal"/></a>
 <a href="https://powerbi.microsoft.com/es-mx/" target="_blank"><img height="50" src="https://www.intecno.cl/wp-content/uploads/2020/07/Logo-cuadrado-con-letra-Power-BI.png"/></a>	
 <a href="#" target="_blank"><img height="50" src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg"/></a>
+<a href="#" target="_blank"><img height="50" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667"/></a>
 </div>
 </td><td valign="top" width="33%">
   
