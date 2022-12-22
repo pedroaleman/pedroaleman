@@ -177,7 +177,20 @@
 
 ## :trophy: Trofeos
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+<table><tr><td width="30%">
+	
+### SQL Server 2005
+	
+<p align="center">
+<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.507" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png" height="50"></a>
+</p></td><td width="30%">
+	
+### .Net Framework 2.0, Web Applications
+	
+<p align="center">
+<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.513" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png" height="50"></a>
+</p></td></tr></table>
+
 
 <hr>
 
