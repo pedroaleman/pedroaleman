@@ -99,6 +99,8 @@
 <a href="https://cpanel.net/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/b75c9b14fe67dd0d490d7b7b5f1054b6c2b08bb0acc2ce13f99d1096355969ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6370616e656c2d77686974653f6c6f676f3d6370616e656c266c6f676f436f6c6f723d464636433243267374796c653d666f722d7468652d6261646765" alt="cpanel" style="max-width: 100%;"></a>
 <a href="#" rel="nofollow"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/c/c7/Dialogflow_logo.svg" alt="dialogflow"  style="max-width: 100%;"></a>
 <a href="#" rel="nofollow"><img height="50" src="https://www.tuxcloud.com/wp-content/uploads/google-cloud-300x180.jpg" alt="googlecloud"  style="max-width: 100%;"></a>
+<a href="#" rel="nofollow"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" alt="meta"  style="max-width: 100%;"></a>
+<a href="#" rel="nofollow"><img height="50" src="https://xegmenta.com/wp-content/uploads/2019/03/whatsapp-business-api-1-opt.png" alt="whatsapp"  style="max-width: 100%;"></a>
 </div>	
 </td><td valign="top" width="33%">
   
