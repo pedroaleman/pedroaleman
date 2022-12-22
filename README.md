@@ -88,8 +88,13 @@
   
 ### IDE &amp; Tools
   
-<div align="center"><a href="https://www.sublimetext.com/" target="_blank"><img src="https://anthoncode.com/wp-content/uploads/2019/01/visual-studio-2012-logo-png.png?is-pending-load=1" height="50" /></a><a href="https://www.sublimetext.com/" target="_blank"><img height="50"  src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
+<div align="center">
+	<a href="#" target="_blank"><img src="https://anthoncode.com/wp-content/uploads/2019/01/visual-studio-2012-logo-png.png?is-pending-load=1" height="50" /></a>
+	<a href="#" target="_blank"><img src="https://codersera.com/blog/wp-content/uploads/2019/08/visual-studio-code-codersera.jpg" height="50" /></a>	
+	<a href="https://www.sublimetext.com/" target="_blank"><img height="50"  src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
 <a href="https://www.postman.com/" target="_blank"><img height="50"  src="https://img.shields.io/badge/-postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="postman"/></a>
+	
+	
 <a href="https://filezilla-project.org/filezilla_pro.php" target="_blank"><img height="50" src="https://img.shields.io/badge/-filezilla-white?logo=filezilla&logoColor=BF0000&style=for-the-badge" alt="filezilla"/></a>
 <a href="https://github.com/microsoft/terminal" target="_blank"><img height="50"  src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/02/powershell_logo_620__w630.jpg" alt="windowsterminal"/></a><a href="https://powerbi.microsoft.com/es-mx/" target="_blank"><img height="50" src="https://www.intecno.cl/wp-content/uploads/2020/07/Logo-cuadrado-con-letra-Power-BI.png"/></a>
 </div>
