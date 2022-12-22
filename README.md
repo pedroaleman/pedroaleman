@@ -1,3 +1,4 @@
+<a href="#" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" />
 <h1 align="center">Hola , soy Pedro Armando Alemán Morado 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -87,7 +88,7 @@
   
 ### Cloud &amp; Hosting
 
-<div align="center"><a href="https://pages.github.com/" target="_blank"><img src="https://www.setvalue.net/static/940f4088bc879934235c66a796026b9c/73822/GitHubPages.jpg" height="50"></a> <a href="https://firebase.google.com/?hl=es" target="_blank"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-standard.png" height="50"></a> <a href="https://cpanel.net/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/b75c9b14fe67dd0d490d7b7b5f1054b6c2b08bb0acc2ce13f99d1096355969ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6370616e656c2d77686974653f6c6f676f3d6370616e656c266c6f676f436f6c6f723d464636433243267374796c653d666f722d7468652d6261646765" alt="cpanel" data-canonical-src="https://img.shields.io/badge/-cpanel-white?logo=cpanel&logoColor=FF6C2C&style=for-the-badge" style="max-width: 100%;"></a>
+<div align="center"><a href="https://pages.github.com/" target="_blank"><img src="https://theaveragenz.com/wp-content/uploads/2021/07/3uy5od7tw2jf4fh7ldlv-800x400.jpeg" height="50"></a> <a href="https://firebase.google.com/?hl=es" target="_blank"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-standard.png" height="50"></a> <a href="https://cpanel.net/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/b75c9b14fe67dd0d490d7b7b5f1054b6c2b08bb0acc2ce13f99d1096355969ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6370616e656c2d77686974653f6c6f676f3d6370616e656c266c6f676f436f6c6f723d464636433243267374796c653d666f722d7468652d6261646765" alt="cpanel" data-canonical-src="https://img.shields.io/badge/-cpanel-white?logo=cpanel&logoColor=FF6C2C&style=for-the-badge" style="max-width: 100%;"></a>
 </div>
 </td><td valign="top" width="33%">
   
@@ -98,10 +99,10 @@
 	<a href="#" target="_blank"><img src="https://codersera.com/blog/wp-content/uploads/2019/08/visual-studio-code-codersera.jpg" height="50" /></a>	
 	<a href="https://www.sublimetext.com/" target="_blank"><img height="50"  src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
 <a href="https://www.postman.com/" target="_blank"><img height="50"  src="https://img.shields.io/badge/-postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="postman"/></a>
-	
-	
 <a href="https://filezilla-project.org/filezilla_pro.php" target="_blank"><img height="50" src="https://img.shields.io/badge/-filezilla-white?logo=filezilla&logoColor=BF0000&style=for-the-badge" alt="filezilla"/></a>
-<a href="https://github.com/microsoft/terminal" target="_blank"><img height="50"  src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/02/powershell_logo_620__w630.jpg" alt="windowsterminal"/></a><a href="https://powerbi.microsoft.com/es-mx/" target="_blank"><img height="50" src="https://www.intecno.cl/wp-content/uploads/2020/07/Logo-cuadrado-con-letra-Power-BI.png"/></a>
+<a href="https://github.com/microsoft/terminal" target="_blank"><img height="50"  src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/02/powershell_logo_620__w630.jpg" alt="windowsterminal"/></a>
+<a href="https://powerbi.microsoft.com/es-mx/" target="_blank"><img height="50" src="https://www.intecno.cl/wp-content/uploads/2020/07/Logo-cuadrado-con-letra-Power-BI.png"/></a>	
+<a href="#" target="_blank"><img height="50" src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg"/></a>
 </div>
 </td><td valign="top" width="33%">
   
