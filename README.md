@@ -54,7 +54,10 @@
   
 ### Backend
   
-<div align="center"><a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"></a> <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"></a></div>
+<div align="center">
+	<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a>
+	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"></a>
+	<a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="50"></a></div>
   
 </td><td valign="top" width="33%">
   
@@ -65,8 +68,10 @@
   
 ### Database
   
-<div align="center"><a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads" target="_blank"><img src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png" height="50"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
-              <a href="https://redis.io/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2021/06/Redis-Logo.png" height="50"></a>
+<div align="center">
+	<a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads" target="_blank"><img src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png" height="50"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
+	<a href="https://redis.io/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2021/06/Redis-Logo.png" height="50"></a>
+	<a href="#" target="_blank"><img src="https://miro.medium.com/max/828/1*HFlYgB6gVLc4Su9HsB9MZg.webp" height="50"></a>
 </div>
 </td><td valign="top" width="33%">
  
