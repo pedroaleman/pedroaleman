@@ -1,4 +1,6 @@
-<a href="#" target="_blank"><img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" />
+<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
+	<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" />
+</a>
 <h1 align="center">Hola , soy Pedro Armando Alemán Morado 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -12,7 +14,10 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
+	<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+</a>
+
 
 ## ⚡🙋‍♂️ Acerca de mí
 
@@ -134,7 +139,18 @@
 ### Office 365
 	
 <div align="center">
-	<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_sharepoint_logo_office_icon_145722.png" alt="sharepoint" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_sharepoint_logo_office_icon_145722.png" alt="sharepoint" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_excel_logo_icon_145720.png" alt="excel" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_outlook_logo_icon_145721.png" alt="outlook" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_word_logo_icon_145724.png" alt="word" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_teams_logo_icon_145726.png" alt="teams" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_onedrive_drive_office_logo_icon_145729.png" alt="onedrive" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_power_point_office_logo_icon_145723.png" alt="powerpoint" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_onenote_logo_icon_145725.png" alt="note" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png" alt="access" height="50"></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_publisher_logo_icon_145717.png" alt="publisher" height="50"></a>
+<a href="#" target="_blank"><img src="https://techairgroup.com/wp-content/uploads/2021/02/microsoft-power-automate-logo.jpg" alt="poweratuomate" height="50"></a>
+<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Microsoft_Forms_%282019-present%29.svg" alt="forms" height="50"></a>
 </div>
 </td><td valign="top" width="33%">
 		
