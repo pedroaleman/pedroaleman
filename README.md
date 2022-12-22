@@ -166,17 +166,17 @@
 </td></tr></tbody></table>
 
 
-### 🔥 Arquitecturas:
+### 🔥 Arquitectura Microservicios:
 
-<p align="left"> 
-    
-</p>
+<img src="https://learn.microsoft.com/es-es/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/microservice-application-design/eshoponcontainers-reference-application-architecture.png"/>
+
+
 
 ### 🔥 Patrones:
 
-<p align="left"> 
-    
-</p>
+<img src="https://learn.microsoft.com/es-es/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/media/apply-simplified-microservice-cqrs-ddd-patterns/simplified-cqrs-ddd-microservice.png"/>
+
+
 
 <hr>
 
