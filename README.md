@@ -30,6 +30,8 @@
 - :student: Actualmente estoy aprendiendo: `Desarrollo de Chat Boots` y `Aplicaciones en la Nube`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`
 - :mailbox: Contactarme en paleman79@gmail.com
+- 🏆 Ver mi formación <a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
+	aquí</a>
 
 <hr>
 </br>
