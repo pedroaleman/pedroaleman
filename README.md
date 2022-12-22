@@ -134,7 +134,12 @@
 ### Packages
 
 <div align="center">
-	<a href="https://pages.github.com/" target="_blank"><img src="https://theaveragenz.com/wp-content/uploads/2021/07/3uy5od7tw2jf4fh7ldlv-800x400.jpeg" height="50"></a>
+<a href="#"><img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2020/07/NET-Core-Microservices-Ocelot-API-Gateway.png" height="50"></a>
+<a href="#"><img src="https://codeopinion.com/wp-content/uploads/2016/03/mediatr.png" height="50"></a>
+<a href="#"><img src="https://miro.medium.com/max/828/1*VstWEsGPYwhDG2-KOBVrNQ.webp" height="50"></a>
+<a href="#"><img src="https://blog.tokiota.com/public/uploads/2021/05/25-Mejoras-Swagger-Parte3/swagger-banner.png" height="50"></a>
+<a href="#"><img src="https://pg-life.net/wp-content/uploads/2021/06/9d4ed380-a8e8-11eb-9f21-c8c87b0f4275.jpg" height="50"></a>	
+<a href="#"><img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" height="50"></a>	<a href="#"><img src="https://programaenlinea.net/wp-content/uploads/2019/06/ecma-ecma.jpg" height="50"></a>
 </div>	
 </td><td valign="top" width="33%">  
 	
