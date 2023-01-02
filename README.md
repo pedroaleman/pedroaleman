@@ -96,7 +96,7 @@
 ### Testing
 
 <div align="center">
-	<a href="https://www.chartjs.org/" target="_blank"><img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="JEST" height="50"></a>
+	<a href="https://jestjs.io/" target="_blank"><img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="JEST" height="50"></a>
 </div>
 
 
@@ -128,6 +128,7 @@
 <a href="https://powerbi.microsoft.com/es-mx/" target="_blank"><img height="50" src="https://www.intecno.cl/wp-content/uploads/2020/07/Logo-cuadrado-con-letra-Power-BI.png"/></a>	
 <a href="#" target="_blank"><img height="50" src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg"/></a>
 <a href="#" target="_blank"><img height="50" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667"/></a>
+	<a href="#" target="_blank"><img height="50" src="https://miro.medium.com/max/1200/1*BCPTI5sT2C9JH76__X2WUg.png"/></a>
 </div>
 </td><td valign="top" width="33%">
   
