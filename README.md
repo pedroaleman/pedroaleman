@@ -95,6 +95,11 @@
 	
 ### Testing
 
+<div align="center">
+	<a href="https://www.chartjs.org/" target="_blank"><img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="JEST" height="50"></a>
+</div>
+
+
 <div align="center"><br></div>
 </td></tr><tr><td valign="top" width="33%">
   
