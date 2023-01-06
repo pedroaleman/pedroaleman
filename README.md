@@ -98,6 +98,7 @@
 <div align="center">
 	<a href="https://jestjs.io/" target="_blank"><img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="JEST" height="50"></a>
 	<a href="#"><img src="https://i.ytimg.com/vi/bJc078szrZA/maxresdefault.jpg" alt="KARMA" height="50"></a>
+	<a href="#"><img src="http://remidoolaeghe.github.io/img/skills/JasmineJS.svg" alt="KARMA" height="50"></a>
 </div>
 
 
