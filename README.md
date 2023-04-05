@@ -196,7 +196,7 @@
 ### Fundamentos de Azure
 	
 <p align="center">
-<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.507" target="_blank"><img src="https://corradocalzoni.com/assets/img/2021-01-16-az-900-badge.png" height="50"></a>
+<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.507" target="_blank"><img src="https://corradocalzoni.com/assets/img/2021-01-16-az-900-badge.png" height="80"></a>
 </p></td><td width="30%">
 	
 ### SQL Server 2005
