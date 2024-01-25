@@ -76,7 +76,7 @@
 ### Database
   
 <div align="center">
-	<a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads" target="_blank"><img src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png" height="50"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
+	<a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads" target="_blank"><img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" height="50"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
 	<a href="https://redis.io/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2021/06/Redis-Logo.png" height="50"></a>
 	<a href="#" target="_blank"><img src="https://miro.medium.com/max/828/1*HFlYgB6gVLc4Su9HsB9MZg.webp" height="50"></a>
 </div>
