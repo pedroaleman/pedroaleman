@@ -23,7 +23,7 @@
 
 </br>
 
-- :school: Trabajo en la Universidad Autónoma de Tamaulipas, en la Dirección de Sistemas de Información
+- :school: Trabajo en la Universidad Autónoma de Tamaulipas
 - :trophy: Cuento con 22 años de experiencia en el uso y administración de la herramienta de base de datos `Microsoft® SQL Server`
 - :technologist: Mi función es el desarrollo de sistemas informáticos, que dan solución a procesos administrativos
 - :computer: Soy programador en Tecnologías: `.NET` `.NET Core` y `Full Stack`.
