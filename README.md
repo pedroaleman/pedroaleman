@@ -1,240 +1,210 @@
-<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
-	<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/mahii-header.png" />
-</a>
-<h1 align="center">Hola , soy Pedro Armando Alemán Morado 
+<h1 align="center">
+  Hola 👋, soy Pedro Armando Alemán Morado
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<div align="center">
- <b style = {font-weight: 600}>Visitantes</b>
+<h3 align="center">🏗️ Arquitecto de Soluciones Hands-on · Full Stack Developer · .NET &amp; Python 🤖</h3>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experiencia-22%2B%20a%C3%B1os-blue?style=for-the-badge" alt="Experiencia"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-Expert-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/AI%20%2B%20MCP-Enabled-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI + MCP"/>
+</p>
+
+<div align="center">
+  <b>Visitantes</b><br>
+  <img src="https://profile-counter.glitch.me/pedroaleman/count.svg" alt="Contador de visitas"/>
 </div>
 
 <br>
 
 <a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
-	<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right" />
 </a>
 
+## 🧑‍💻 Sobre mí
 
-## ⚡🙋‍♂️ Acerca de mí
+Arquitecto de Soluciones **hands-on** y desarrollador **Full Stack** con más de **22 años de experiencia** en SQL Server y sistemas empresariales. Especializado en plataformas **.NET**, arquitecturas **multitenant**, APIs, bases de datos, automatización e **integración de inteligencia artificial**.
 
-</br>
+Diseño soluciones de **extremo a extremo** — desde el modelo de negocio y de datos hasta la implementación, seguridad, despliegue y documentación técnica.
 
-- :school: Trabajo en la Universidad Autónoma de Tamaulipas
-- :trophy: Cuento con 22 años de experiencia en el uso y administración de la herramienta de base de datos `Microsoft® SQL Server`
-- :technologist: Mi función es el desarrollo de sistemas informáticos, que dan solución a procesos administrativos
-- :computer: Soy programador en Tecnologías: `.NET` `.NET Core` y `Full Stack`.
-- :student: Actualmente estoy aprendiendo: `Desarrollo de Chat Boots` y `Aplicaciones en la Nube`.
-- :nerd_face: Siempre `aprendiendo cosas nuevas`
-- :mailbox: Contactarme en paleman79@gmail.com
-- 🏆 Ver mi formación <a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
-	aquí</a>
+- 🏛️ **Programador de Sistemas** en la **Universidad Autónoma de Tamaulipas**
+- 🚀 **Freelance & Arquitecto** en sectores de campañas políticas, salud, deportes y automatización
+- 🗄️ **22+ años** diseñando y administrando **Microsoft SQL Server**
+- 🤖 Integrando **LLMs, agentes IA y MCP** en el flujo de desarrollo diario
+- 🌱 Siempre **aprendiendo cosas nuevas**
+- 📫 Contáctame en **paleman79@gmail.com**
 
-<hr>
-</br>
+<br clear="right"/>
 
+## 🛠️ Stack Tecnológico
 
-## 🛠️ Mis Habilidades
-<hr>
+### 💻 Lenguajes
 
-### 🔥 Languages:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
-    <a href="#" target="_blank"> <img src="https://nsdarabia.com/customers_demos/new_Nouveltech/images/VB.jpg" width="70" height="44"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="44" height="44"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="#" target="_blank"> <img src="https://wwwen.uni.lu/var/storage/images/media/images/delphi_logo_2014_11474784/1175152-1-fre-FR/delphi_logo_2014_11474784.jpg"  width="65" height="48"/> </a>
-    <a href="#" target="_blank"> <img src="https://usercontent.one/wp/ocs-consulting.nl/wp-content/uploads/2018/04/powerbuilder-icon.png?media=1658845088" width="65" height="44"/> </a> 
-   
+### 🟣 Stack .NET
+
+![.NET](https://img.shields.io/badge/.NET%208%2F9%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Razor](https://img.shields.io/badge/Razor%20%2F%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-A9225C?style=for-the-badge&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20%2F%20Cookies%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-BE2E2E?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-2E7D32?style=for-the-badge)
+![Background Services](https://img.shields.io/badge/Background%20Services-512BD4?style=for-the-badge)
+
+### 🗄️ Bases de Datos
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server%20(22%2B%20a%C3%B1os)-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-CC2927?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Multitenant](https://img.shields.io/badge/Dise%C3%B1o%20Multitenant-1E88E5?style=for-the-badge)
+![Auditoría](https://img.shields.io/badge/Auditor%C3%ADa%20%2F%20Migraci%C3%B3n-546E7A?style=for-the-badge)
+
+### 🐍 Python / IA
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-FF6F00?style=for-the-badge)
+![Visión Computacional](https://img.shields.io/badge/Visi%C3%B3n%20Computacional-6A1B9A?style=for-the-badge)
+![Biometría Facial](https://img.shields.io/badge/Biometr%C3%ADa%20%2F%20Liveness-00897B?style=for-the-badge)
+
+### 🎨 Frontend
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript Modular](https://img.shields.io/badge/JavaScript%20Modular-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
+![CSP](https://img.shields.io/badge/CSP%20Estrictas-2E7D32?style=for-the-badge)
+![Push](https://img.shields.io/badge/Notificaciones%20Push-FF5252?style=for-the-badge)
+
+### ⚙️ DevOps / Infraestructura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/VPS%20Linux%20(Contabo%2FInterServer)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IIS](https://img.shields.io/badge/IIS-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-EE0000?style=for-the-badge)
+
+### 🧩 Arquitectura & Principios
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0D47A1?style=for-the-badge)
+![Multitenant](https://img.shields.io/badge/Multitenant-1565C0?style=for-the-badge)
+![Microservicios](https://img.shields.io/badge/Microservicios%20Desacoplados-00838F?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-37474F?style=for-the-badge)
+![DRY](https://img.shields.io/badge/DRY-37474F?style=for-the-badge)
+![SoC](https://img.shields.io/badge/Separation%20of%20Concerns-455A64?style=for-the-badge)
+![Domain Modeling](https://img.shields.io/badge/Domain%20Modeling-4527A0?style=for-the-badge)
+![REST](https://img.shields.io/badge/APIs%20REST-6A1B9A?style=for-the-badge)
+
+## 🤖 IA, Agentes &amp; Metodologías
+
+> Integro inteligencia artificial de forma **estructurada y medible** en el ciclo de desarrollo, con estándares compartidos entre proyectos.
+
+| Área | Detalle |
+|------|---------|
+| 🧠 **LLMs** | ChatGPT · Claude · DeepSeek · GitHub Copilot Pro |
+| 🔌 **MCP (Model Context Protocol)** | Conexión de agentes IA a **SQL Server en tiempo real**: consulta de tablas, stored procedures y esquemas |
+| ⚡ **Claude Code** | Desarrollo *agentic*, **subagentes** y **skills** especializadas |
+| 📄 **Archivos de contexto** | `CLAUDE.md` y `AGENTS.md` por proyecto |
+| 📓 **NotebookLM** | Copiloto **arquitectónico** por proyecto |
+| ✏️ **Napkin AI** | Generación de **diagramas** |
+| 💰 **FinOps de IA** | Control de **consumo de tokens y costos** por módulo |
+| 🏷️ **Clasificadores semánticos** | Bots **multitenant** con OpenAI y DeepSeek |
+| 📐 **AI Engineering Standard** | Estándar de ingeniería de IA **compartido entre proyectos** |
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🗳️ **SmartPolV2** | Plataforma **multitenant** para campañas políticas y operación electoral. OCR de INE, prueba de vida activa y **99.6% de precisión** en validación de documentos | `ASP.NET Core 10` · `FastAPI` · `SQL Server` · `Docker` |
+| ⚽ **Sportiva Live** | Administración de **torneos deportivos** con portal del delegado y notificaciones push | `.NET` · `PWA` · `Push` |
+| 🏥 **UrbiMed** | Sistema de **administración médica** con generación de documentos | `.NET` · `QuestPDF` |
+| 💬 **Urbi Flow / Urbi Bot Admin V2** | Plataforma de **bots multitenant** con integración de IA y registro de uso y costos | `.NET` · `IA` · `Multitenant` |
+| 🧬 **SmartServicesAI** | Plataforma **FastAPI** de servicios IA: OCR, biometría y visión computacional, **sin persistencia** de datos biométricos | `FastAPI` · `OpenCV` · `MediaPipe` |
+
+## 📚 Aprendiendo Actualmente
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20(PCA)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Agentic](https://img.shields.io/badge/Desarrollo%20Agentic%20Avanzado-8A2BE2?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google%20Agent%20Dev%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-EE4C2C?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-0D47A1?style=for-the-badge)
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- ☁️ **Google Cloud** — preparación *Professional Cloud Architect*
+- 🤖 **Desarrollo agentic avanzado** y orquestación de agentes
+- 🧰 **Google Agent Development Kit (ADK)**
+- 📊 **MLOps**, **BigQuery** y **Dataflow**
+- 🧠 **Context Engineering**
+- 🗂️ **GitHub Projects** para gestión de desarrollo
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedroaleman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaleman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
 </p>
 
-<table><tbody><tr><td valign="top" width="33%">
-  
-### Frontend
-              
-<div align="center"><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="Css" height="50"></a> <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"></a></div></td><td valign="top" width="33%">
-  
-### Backend
-  
-<div align="center">
-	<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a>
-	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"></a>
-	<a href="https://nodejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="50"></a></div>
-  
-</td><td valign="top" width="33%">
-  
- ### DevOps | CI/CD
-  
-<div align="center"><a href="https://azure.microsoft.com/es-es/products/devops/" target="_blank"><img src="https://tydw.files.wordpress.com/2019/04/team-foundation-server-express-2017.png" height="50"></a> <a href="https://azure.microsoft.com/es-es/products/devops/" target="_blank"><img src="https://miro.medium.com/max/1400/1*8orwInnxqPRhrcKf9aOo9Q.webp" height="50"></a> <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"></a> <a href="https://git-scm.com/" target="_blank"><img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" height="50"></a> <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gitlab_original_wordmark_logo_icon_146504.png" height="50"></a> <a href="https://github.com/features/actions" target="_blank"><img src="https://miro.medium.com/max/456/0*co0wSjYRkrtl9V9f.webp" height="50"></a> <a href="https://github.com/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" height="50"></a></div>
-</td></tr><tr><td valign="top" width="33%">
-  
-### Database
-  
-<div align="center">
-	<a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads" target="_blank"><img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" height="50"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></a>
-	<a href="https://redis.io/" target="_blank"><img src="https://1000marcas.net/wp-content/uploads/2021/06/Redis-Logo.png" height="50"></a>
-	<a href="#" target="_blank"><img src="https://miro.medium.com/max/828/1*HFlYgB6gVLc4Su9HsB9MZg.webp" height="50"></a>
-</div>
-</td><td valign="top" width="33%">
- 
-### Librer&iacute;as y Frameworks
-  
-<div align="center">
-	<a href="https://www.chartjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50"></a>
-	<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50"></a>
-	<a href="https://getbootstrap.com/docs/5.0/components/buttons/" target="_blank"><img height="50px" src="https://camo.githubusercontent.com/dc657800d770f9f6a3be2c87d262cfd75f86ab2988a74861792f336658fffac6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574626f6f7473747261702f676574626f6f7473747261702d617232312e737667" style="max-width: 100%;"></a>
-	<a href="https://jquery.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" alt="JQuery" height="50"></a>
-	<a href="#" target="_blank"><img src="https://camo.githubusercontent.com/0a52f68a159b75266c4ae21683fffa9cbc1af29ea6febc2a8c9ce260a05e521d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67756c61722e737667" height="50"></a>	
-</div>
-</td><td valign="top" width="33%">
-	
-### Testing
+## 🏅 Formación &amp; Certificaciones
 
-<div align="center">
-	<a href="https://jestjs.io/" target="_blank"><img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="JEST" height="50"></a>
-	<a href="#"><img src="https://i.ytimg.com/vi/bJc078szrZA/maxresdefault.jpg" alt="KARMA" height="50"></a>
-	<a href="#"><img src="http://remidoolaeghe.github.io/img/skills/JasmineJS.svg" alt="KARMA" height="50"></a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Fundamentos de Azure</b><br>
+      <a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.507" target="_blank">
+        <img src="https://corradocalzoni.com/assets/img/2021-01-16-az-900-badge.png" height="80">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>SQL Server 2005</b><br>
+      <a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png" height="55">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>.NET Framework 2.0<br>Web Applications</b><br>
+      <a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png" height="55">
+      </a>
+    </td>
+  </tr>
+</table>
 
+📜 **Transcript completo de Microsoft Learn** →
+[Ver certificaciones](https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0)
 
-<div align="center"><br></div>
-</td></tr><tr><td valign="top" width="33%">
-  
-### Cloud &amp; Hosting
-
-<div align="center">
-<a href="https://pages.github.com/" target="_blank"><img src="https://theaveragenz.com/wp-content/uploads/2021/07/3uy5od7tw2jf4fh7ldlv-800x400.jpeg" height="50"></a>
-<a href="https://firebase.google.com/?hl=es" target="_blank"><img src="https://firebase.google.com/static/images/brand-guidelines/logo-standard.png" height="50"></a> 
-<a href="https://cpanel.net/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/b75c9b14fe67dd0d490d7b7b5f1054b6c2b08bb0acc2ce13f99d1096355969ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6370616e656c2d77686974653f6c6f676f3d6370616e656c266c6f676f436f6c6f723d464636433243267374796c653d666f722d7468652d6261646765" alt="cpanel" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/c/c7/Dialogflow_logo.svg" alt="dialogflow"  style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img height="50" src="https://www.tuxcloud.com/wp-content/uploads/google-cloud-300x180.jpg" alt="googlecloud"  style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" alt="meta"  style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img height="50" src="https://xegmenta.com/wp-content/uploads/2019/03/whatsapp-business-api-1-opt.png" alt="whatsapp"  style="max-width: 100%;"></a>
-</div>	
-</td><td valign="top" width="33%">
-  
-### IDE &amp; Tools
-  
-<div align="center">
-	<a href="#" target="_blank"><img src="https://anthoncode.com/wp-content/uploads/2019/01/visual-studio-2012-logo-png.png?is-pending-load=1" height="50" /></a>
-	<a href="#" target="_blank"><img src="https://codersera.com/blog/wp-content/uploads/2019/08/visual-studio-code-codersera.jpg" height="50" /></a>	
-	<a href="https://www.sublimetext.com/" target="_blank"><img height="50"  src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
-<a href="https://www.postman.com/" target="_blank"><img height="50"  src="https://img.shields.io/badge/-postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="postman"/></a>
-<a href="https://filezilla-project.org/filezilla_pro.php" target="_blank"><img height="50" src="https://img.shields.io/badge/-filezilla-white?logo=filezilla&logoColor=BF0000&style=for-the-badge" alt="filezilla"/></a>
-<a href="https://github.com/microsoft/terminal" target="_blank"><img height="50"  src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/02/powershell_logo_620__w630.jpg" alt="windowsterminal"/></a>
-<a href="https://powerbi.microsoft.com/es-mx/" target="_blank"><img height="50" src="https://www.intecno.cl/wp-content/uploads/2020/07/Logo-cuadrado-con-letra-Power-BI.png"/></a>	
-<a href="#" target="_blank"><img height="50" src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg"/></a>
-<a href="#" target="_blank"><img height="50" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667"/></a>
-	<a href="#" target="_blank"><img height="50" src="https://miro.medium.com/max/1200/1*BCPTI5sT2C9JH76__X2WUg.png"/></a>
-</div>
-</td><td valign="top" width="33%">
-  
-### Sistemas Operativos
-  
-<div align="center"><a href="https://www.microsoft.com/es-mx/software-download/windows10" target="_blank"><img src="https://www.linuxadictos.com/wp-content/uploads/windows-10-logo.jpg.webp" height="50"></a> <a href="https://ubuntu.com/wsl" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg" height="50"></a></div>
-</td></tr><tr><td valign="top" width="33%">
-  
-### Packages
-
-<div align="center">
-<a href="#"><img src="https://www.gencayyildiz.com/blog/wp-content/uploads/2020/07/NET-Core-Microservices-Ocelot-API-Gateway.png" height="50"></a>
-<a href="#"><img src="https://codeopinion.com/wp-content/uploads/2016/03/mediatr.png" height="50"></a>
-<a href="#"><img src="https://miro.medium.com/max/828/1*VstWEsGPYwhDG2-KOBVrNQ.webp" height="50"></a>
-<a href="#"><img src="https://blog.tokiota.com/public/uploads/2021/05/25-Mejoras-Swagger-Parte3/swagger-banner.png" height="50"></a>
-<a href="#"><img src="https://pg-life.net/wp-content/uploads/2021/06/9d4ed380-a8e8-11eb-9f21-c8c87b0f4275.jpg" height="50"></a>	
-<a href="#"><img src="https://thekenyandev.com/static/ba180df420dbaffd7405a0f65764feab/cover.png" height="50"></a>	<a href="#"><img src="https://programaenlinea.net/wp-content/uploads/2019/06/ecma-ecma.jpg" height="50"></a>
-</div>	
-</td><td valign="top" width="33%">  
-	
-### Office 365
-	
-<div align="center">
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_sharepoint_logo_office_icon_145722.png" alt="sharepoint" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_excel_logo_icon_145720.png" alt="excel" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_outlook_logo_icon_145721.png" alt="outlook" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_word_logo_icon_145724.png" alt="word" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_teams_logo_icon_145726.png" alt="teams" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_onedrive_drive_office_logo_icon_145729.png" alt="onedrive" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_power_point_office_logo_icon_145723.png" alt="powerpoint" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_onenote_logo_icon_145725.png" alt="note" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_access_logo_icon_145727.png" alt="access" height="50"></a>
-<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_publisher_logo_icon_145717.png" alt="publisher" height="50"></a>
-<a href="#" target="_blank"><img src="https://techairgroup.com/wp-content/uploads/2021/02/microsoft-power-automate-logo.jpg" alt="poweratuomate" height="50"></a>
-<a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Microsoft_Forms_%282019-present%29.svg" alt="forms" height="50"></a>
-</div>
-</td><td valign="top" width="33%">
-		
-<div align="center">
-</div>
-</td></tr></tbody></table>
-
-
-### 🔥 Arquitectura Microservicios:
-
-<a href="https://www.ithinkupc.com/es/blog/monolito-o-microservicios-ventajas-y-desventajas" target="_blank">Monolitos vs. Microservicios</a>
-<img src="https://learn.microsoft.com/es-es/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/microservice-application-design/eshoponcontainers-reference-application-architecture.png"/>
-
-
-
-### 🔥 Patrones:
-
-<img src="https://learn.microsoft.com/es-es/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/media/apply-simplified-microservice-cqrs-ddd-patterns/simplified-cqrs-ddd-microservice.png"/>
-
-
-
-<hr>
-
-## :trophy: Trofeos
-
-<table><tr><td width="30%">
-	
-### Fundamentos de Azure
-	
-<p align="center">
-<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.507" target="_blank"><img src="https://corradocalzoni.com/assets/img/2021-01-16-az-900-badge.png" height="80"></a>
-</p></td><td width="30%">
-	
-### SQL Server 2005
-	
-<p align="center">
-<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.507" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png" height="50"></a>
-</p></td><td width="30%">
-	
-### .Net Framework 2.0, Web Applications
-	
-<p align="center">
-<a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/certifications/certification-details/certification.nouid.513" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/MCTS_logo.png" height="50"></a>
-</p></td></tr></table>
-
-
-<hr>
-
-
-	
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Conectate conmigo
-</br>
+## 🔗 Conéctate conmigo
 
 <p align="center">
-	<a href="mailto:paleman79@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/pedroaleman"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0528342475490"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/pedro-armando-66a3b41a9"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/pedroarmando.alemanmorado"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-	<a href = 'https://twitter.com/pedroaleman79'><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white" alt="Twitter"/></a>  
+  <a href="mailto:paleman79@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/pedroaleman"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://wa.me/0528342475490"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/pedro-armando-66a3b41a9"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/pedroarmando.alemanmorado"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://twitter.com/pedroaleman79"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<br>
-
-
-
 <hr>
 
------
-Última actualización: 21/12/2022
+<p align="center"><i>💡 «Diseño soluciones de extremo a extremo: del modelo de negocio a la producción, con IA integrada de forma medible.»</i></p>
+
+<p align="center"><sub>🗓️ Última actualización: Julio 2026</sub></p>
