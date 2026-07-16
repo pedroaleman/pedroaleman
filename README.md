@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.png" alt="Pedro Armando Alemán Morado — Arquitecto de Soluciones · .NET & Python · IA/MCP" width="100%"/>
+</p>
+
 <h1 align="center">
   Hola 👋, soy Pedro Armando Alemán Morado
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
