@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/badge/AI%20%2B%20MCP-Enabled-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI + MCP"/>
 </p>
 
-<div align="center">
-  <b>Visitantes</b><br>
-  <img src="https://profile-counter.glitch.me/pedroaleman/count.svg" alt="Contador de visitas"/>
-</div>
-
-<br>
-
 <a href="https://learn.microsoft.com/es-mx/users/pedroalemnmorado-2485/transcript/d8y2jfp6mxollk0" target="_blank">
   <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right" />
 </a>
@@ -160,13 +153,6 @@ Diseño soluciones de **extremo a extremo** — desde el modelo de negocio y de 
 - 📊 **MLOps**, **BigQuery** y **Dataflow**
 - 🧠 **Context Engineering**
 - 🗂️ **GitHub Projects** para gestión de desarrollo
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedroaleman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaleman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados"/>
-</p>
 
 ## 🏅 Formación &amp; Certificaciones
 
